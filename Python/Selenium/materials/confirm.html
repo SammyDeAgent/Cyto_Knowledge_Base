@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<body bgcolor="#C0C0C0">
+		<h1>Confirmation Alert Demonstration</h1>
+		<p>click the Below Button to create an Alert</p>
+		<button onclick="alertFunction()" name="alert">Create Alert</button>
+		<p id="msg"></p>
+		<script>
+			function alertFunction() {
+				var txt;
+				if (confirm("Hi!! I am Confirmation Alert.")) {
+					txt = "You pressed OK!";
+				} else {
+					txt = "You pressed CANCEL!";
+				}
+				document.getElementById("msg").innerHTML = txt;
+			}
+		</script>
+	</body>
+</html>
