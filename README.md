@@ -7,3 +7,6 @@ The accumulation of knowledge must be passed on.
 - Euler: Mathematics, theory, problems, algorithms, data structures, statistical calculation etc.
 - Python: PY language tutorials and it's libraries code bases.
 - C-Sharp: C# language tutorials.
+
+## Additonal stuff:
+- Sammy Euler: 1974331-9B0aMVgeKp8YZinOIHI5RhAhLitppM4kCQSTO8UM
